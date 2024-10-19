@@ -29,10 +29,10 @@
     <Text Include="inputG.txt">
       <Filter>Resource Files</Filter>
     </Text>
-    <Text Include="C:\Users\George\OneDrive\Desktop\testG.txt">
+    <Text Include="inputFA.txt">
       <Filter>Resource Files</Filter>
     </Text>
-    <Text Include="inputFA.txt">
+    <Text Include="testG.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>

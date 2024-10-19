@@ -133,9 +133,9 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="C:\Users\George\OneDrive\Desktop\testG.txt" />
     <Text Include="inputFA.txt" />
     <Text Include="inputG.txt" />
+    <Text Include="testG.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FiniteAutomaton.h" />
